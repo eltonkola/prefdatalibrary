@@ -1,4 +1,4 @@
-package com.aldroid.prefdatalibrary;
+package com.eltonkola.prefdatalibrary;
 
 import android.app.Application;
 

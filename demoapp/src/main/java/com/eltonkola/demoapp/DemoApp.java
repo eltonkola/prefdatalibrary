@@ -6,7 +6,7 @@ import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 
-import com.aldroid.prefdatalibrary.PrefDataApp;
+import com.eltonkola.prefdatalibrary.PrefDataApp;
 
 import java.util.Calendar;
 
